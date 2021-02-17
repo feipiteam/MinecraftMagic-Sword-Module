@@ -1,0 +1,27 @@
+{
+  "group": "laji",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:rail"
+    },
+    "2": {
+      "item": "minecraft:rail"
+    },
+    "4": {
+      "item": "minecraft:iron_sword"
+    },
+    "7": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "laji:ji_guang_jian",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "laji",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "laji:ji_guang_jian"
+    },
+    "1": {
+      "item": "laji:ji_guang_jian"
+    },
+    "2": {
+      "item": "laji:ji_guang_jian"
+    },
+    "3": {
+      "item": "laji:ji_guang_jian"
+    },
+    "4": {
+      "item": "minecraft:birch_planks"
+    },
+    "5": {
+      "item": "minecraft:tnt"
+    },
+    "6": {
+      "item": "laji:ji_guang_jian"
+    },
+    "7": {
+      "item": "minecraft:tnt"
+    },
+    "8": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "laji:huen_he_wu_kuai",
+    "count": 5
+  }
+}

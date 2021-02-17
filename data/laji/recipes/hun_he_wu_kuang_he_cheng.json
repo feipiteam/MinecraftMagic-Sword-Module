@@ -1,0 +1,42 @@
+{
+  "group": "laji",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "laji:huen_he_wu_kuang"
+    },
+    "1": {
+      "item": "laji:huen_he_wu_kuang"
+    },
+    "2": {
+      "item": "laji:huen_he_wu_kuang"
+    },
+    "3": {
+      "item": "laji:huen_he_wu_kuang"
+    },
+    "4": {
+      "item": "laji:huen_he_wu_kuang"
+    },
+    "5": {
+      "item": "laji:huen_he_wu_kuang"
+    },
+    "6": {
+      "item": "laji:huen_he_wu_kuang"
+    },
+    "7": {
+      "item": "laji:huen_he_wu_kuang"
+    },
+    "8": {
+      "item": "laji:huen_he_wu_kuang"
+    }
+  },
+  "result": {
+    "item": "laji:huen_he_wu_kuai",
+    "count": 5
+  }
+}

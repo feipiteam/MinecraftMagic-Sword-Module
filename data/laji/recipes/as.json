@@ -1,0 +1,12 @@
+{
+  "group": "laji",
+  "type": "minecraft:smelting",
+  "experience": 10,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "minecraft:wheat"
+  },
+  "result": {
+    "item": "laji:asuper"
+  }
+}

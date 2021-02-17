@@ -1,0 +1,12 @@
+{
+  "group": "laji",
+  "type": "minecraft:smelting",
+  "experience": 100,
+  "cookingtime": 500,
+  "ingredient": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "laji:huen_he_wu_kuai"
+  }
+}

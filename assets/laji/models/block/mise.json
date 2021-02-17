@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "laji:blocks/mise_ender",
+    "up": "laji:blocks/mise_top",
+    "north": "laji:blocks/mise_left",
+    "east": "laji:blocks/mise_left",
+    "south": "laji:blocks/mise_left",
+    "west": "laji:blocks/mise_left",
+    "particle": "laji:blocks/mise_ender"
+  }
+}
